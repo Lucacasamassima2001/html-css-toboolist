@@ -105,15 +105,27 @@ li{
 /* V and X Signs */
 
 .v{
+    width: 20px;
+    height: 20px;
+    border: 1px solid rgb(20, 212, 226);
+    border-radius: 50%;
     display: inline-block;
     color: rgb(20, 212, 226);
     margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
 }
 
 .x{
+    width: 20px;
+    height: 20px;
+    border: 1px solid red;
+    border-radius: 50%;
     display: inline-block;
     color: red;
     margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
 }
 
 /* Information tags on the right */

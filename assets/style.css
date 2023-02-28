@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    background-color: rgb(227, 221, 221);
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+header{
+    background-color: white;
+    height: 100px;
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/Logo.png);
+    background-size: contain;
+    display: inline-block;
+}
+
+
+.tobolist{
+    margin-top: 20px;
+    width: 350px;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4em;
+    font-weight: 600;
+    display: inline-block;
+}
+
+
+.firstconteiner{
+    margin-top: 50px;
+    margin-left: 15%;
+    background-color: white;
+    width: 1000px;
+    height: 60px;
+}
+
+
+.task{
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+    border-color:rgb(0, 195, 195);
+    background-color: rgb(0, 195, 195);
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.section{
+    padding: 5px;
+    font-size: 20px;
+    background-color: white;
+    border-color: grey;
+    color: gray;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.secondconteiner{
+    margin-top: 5px;
+    margin-left: 15%;
+    background-color: white;
+    width: 1000px;
+    height: 800px;
+}
+
+
+
+.list{
+    list-style: none;
+    font-size: 20px;
+    padding: 30px;
+}
+
+.subtitle{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(92, 92, 92);
+}
+
+
+li{
+    margin-top: 10px;
+    color: rgb(65, 65, 139);
+}
+
+.v{
+    display: inline-block;
+    color: rgb(20, 212, 226);
+    margin-top: 10px;
+}
+
+.editorial{
+    color: white;
+    background-color: rgb(9, 146, 146);
+    width: 55px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.list{
+    list-style: none;
+    font-size: 20px;
+    padding: 30px;
+}
+
+.Q1goals{
+    color: white;
+    background-color: rgb(121, 9, 146);
+    width: 65px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.Recruiting{
+    color: white;
+    background-color: rgb(2, 196, 196);
+    width: 70px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.x{
+    display: inline-block;
+    color: red;
+    margin-top: 10px;
+}
+
+.mobile{
+    color: white;
+    background-color: orange;
+    width: 45px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.Website{
+    color: white;
+    background-color: rgb(201, 116, 211);
+    width: 55px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.Sales{
+    color: white;
+    background-color: rgb(70, 238, 61);
+    width: 40px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 15px;
+}

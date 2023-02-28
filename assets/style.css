@@ -6,6 +6,16 @@ body{
 
 }
 
+.conteiner{
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 15%;
+    background-color: white;
+    width: 1000px;
+    height: 800px;
+}
+
+ /* logo and title section */
 
 header{
     background-color: white;
@@ -33,18 +43,14 @@ header{
 }
 
 
-.firstconteiner{
-    margin-top: 50px;
-    margin-left: 15%;
-    background-color: white;
-    width: 1000px;
-    height: 60px;
-}
+/* Buttons */
+
+
 
 
 .task{
     padding: 5px;
-    font-size: 20px;
+    font-size: 15px;
     color: white;
     border-color:rgb(0, 195, 195);
     background-color: rgb(0, 195, 195);
@@ -56,7 +62,7 @@ header{
 
 .section{
     padding: 5px;
-    font-size: 20px;
+    font-size: 15px;
     background-color: white;
     border-color: grey;
     color: gray;
@@ -65,8 +71,11 @@ header{
     margin-top: 15px;
 }
 
-.secondconteiner{
-    margin-top: 5px;
+
+/* Lists */
+
+.listsconteiner{
+    border-radius: 5px;
     margin-left: 15%;
     background-color: white;
     width: 1000px;
@@ -93,11 +102,21 @@ li{
     color: rgb(65, 65, 139);
 }
 
+/* V and X Signs */
+
 .v{
     display: inline-block;
     color: rgb(20, 212, 226);
     margin-top: 10px;
 }
+
+.x{
+    display: inline-block;
+    color: red;
+    margin-top: 10px;
+}
+
+/* Information tags on the right */
 
 .editorial{
     color: white;
@@ -109,11 +128,6 @@ li{
     font-size: 15px;
 }
 
-.list{
-    list-style: none;
-    font-size: 20px;
-    padding: 30px;
-}
 
 .Q1goals{
     color: white;
@@ -135,11 +149,6 @@ li{
     font-size: 15px;
 }
 
-.x{
-    display: inline-block;
-    color: red;
-    margin-top: 10px;
-}
 
 .mobile{
     color: white;
